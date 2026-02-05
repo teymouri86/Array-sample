@@ -1,0 +1,6 @@
+C:\Users\faty\Documents\Visual Studio 2015\Projects\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+C:\Users\faty\Documents\Visual Studio 2015\Projects\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe
+C:\Users\faty\Documents\Visual Studio 2015\Projects\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.pdb
+C:\Users\faty\Documents\Visual Studio 2015\Projects\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\faty\Documents\Visual Studio 2015\Projects\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.exe
+C:\Users\faty\Documents\Visual Studio 2015\Projects\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.pdb
